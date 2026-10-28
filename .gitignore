@@ -1,0 +1,13 @@
+node_modules
+.next
+.env
+/media
+next-env.d.ts
+*.tsbuildinfo
+/private
+.next/
+out/
+build/
+.env.*
+!.env.example
+*.log
